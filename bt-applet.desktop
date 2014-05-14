@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Bluetooth System Tray Applet
+GenericName=Bluetooth monitoring and configuration applet
+Icon=bluetooth
+Exec=bt-applet
+Terminal=false
+Categories=TrayIcon;Network;Monitor;System;GTK;
+StartupNotify=true
+NotShowIn=GNOME;KDE;XFCE;LXDE;
+X-GNOME-Autostart-enabled=true
